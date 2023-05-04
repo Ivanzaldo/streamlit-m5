@@ -20,3 +20,6 @@ if (myname):
     st.dataframe(filterbyname)
 
 # streamlit run 4.-interactivo_caja_texto.py --server.enableCORS false --server.enableXsrfProtection false
+# git add 4.-interactivo_caja_texto.py
+# git commit -m "add buscador"
+# git push origin main
